@@ -8,6 +8,27 @@
       "type": "java",
       "name": "Test",
       "request": "launch",
+      "mainClass": "javaTest.test4.jiekou.Test",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "Test2",
+      "request": "launch",
+      "mainClass": "javaTest.test4.abstract_test.Test2",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "javaTest.test4.abstract_test.Test",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
       "mainClass": "javaTest.test3.inherit.job.Test",
       "projectName": "java_8575a058"
     },
