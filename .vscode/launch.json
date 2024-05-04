@@ -6,6 +6,167 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Test3",
+      "request": "launch",
+      "mainClass": "javaTest.test5.io.zifu.Test3",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "Test2",
+      "request": "launch",
+      "mainClass": "javaTest.test5.io.zifu.Test2",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "Test1",
+      "request": "launch",
+      "mainClass": "javaTest.test5.io.zifu.Test1",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "Clinet",
+      "request": "launch",
+      "mainClass": "javaTest.test5.connecting.practice.Clinet",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "Server",
+      "request": "launch",
+      "mainClass": "javaTest.test5.connecting.practice.Server",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "Server",
+      "request": "launch",
+      "mainClass": "javaTest.test5.connecting.test2.Server",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "Clinet",
+      "request": "launch",
+      "mainClass": "javaTest.test5.connecting.test2.Clinet",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "Test1",
+      "request": "launch",
+      "mainClass": "javaTest.test5.connecting.Test1",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "IOtest7",
+      "request": "launch",
+      "mainClass": "javaTest.test5.io.IOtest7",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "IOtest6",
+      "request": "launch",
+      "mainClass": "javaTest.test5.io.IOtest6",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "IOtest5",
+      "request": "launch",
+      "mainClass": "javaTest.test5.io.IOtest5",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "IOtest4",
+      "request": "launch",
+      "mainClass": "javaTest.test5.io.IOtest4",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "IOtest3",
+      "request": "launch",
+      "mainClass": "javaTest.test5.io.IOtest3",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "IOtest2",
+      "request": "launch",
+      "mainClass": "javaTest.test5.io.IOtest2",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "IOtest1",
+      "request": "launch",
+      "mainClass": "javaTest.test5.io.IOtest1",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "IOtest",
+      "request": "launch",
+      "mainClass": "javaTest.test5.io.IOtest",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "Test2",
+      "request": "launch",
+      "mainClass": "javaTest.test5.file.Test2",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "Test1",
+      "request": "launch",
+      "mainClass": "javaTest.test5.file.Test1",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "Test2",
+      "request": "launch",
+      "mainClass": "javaTest.test5.Exception.Test2",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "Test1",
+      "request": "launch",
+      "mainClass": "javaTest.test5.Exception.Test1",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "Exception_throw",
+      "request": "launch",
+      "mainClass": "javaTest.test5.Exception.Exception_throw",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "ExceptionDemo1",
+      "request": "launch",
+      "mainClass": "javaTest.test5.Exception.ExceptionDemo1",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
+      "name": "Test2",
+      "request": "launch",
+      "mainClass": "javaTest.test5.stream.Test2",
+      "projectName": "java_8575a058"
+    },
+    {
+      "type": "java",
       "name": "Test",
       "request": "launch",
       "mainClass": "javaTest.test4.jiekou.Test",
